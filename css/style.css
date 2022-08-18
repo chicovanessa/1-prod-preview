@@ -106,6 +106,10 @@ p {
   margin-left: 10px;
 }
 
+.card__button-green:hover {
+  background-color: hsl(158, 53%, 21%);
+}
+
 footer {
   text-align: center;
 }
